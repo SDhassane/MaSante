@@ -12,4 +12,4 @@ Application web full-stack permettant la gestion des traitements et des rendez-v
 - **Base de données :** MySQL
 
 ## 📸 Aperçu :
-*(Ajoute ici tes captures d'écran en les glissant-déposant directement dans ce fichier depuis ton ordinateur)*
+<img width="1274" height="604" alt="acceuil" src="https://github.com/user-attachments/assets/83224ace-0e38-47cf-9db3-b41fb19f95e2" />
